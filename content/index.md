@@ -3,7 +3,7 @@ title: Dawn Chorus
 ---
 ![[warbler.svg]]
 
-Dawn Chorus is a school project developed by [[the team|a team]] at [BG/BRG Villach, St. Martin](www.it-gymnasium.at). The aim of the project is to conduct a year-long study of ecoacoustics at various sites in and around Villach.
+Dawn Chorus is a school project developed by [[the team|a team]] at [BG/BRG Villach, St. Martin](https://www.it-gymnasium.at). The aim of the project is to conduct a year-long study of ecoacoustics at various sites in and around Villach.
 
 The project encompasses:
 
