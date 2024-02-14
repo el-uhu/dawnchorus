@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dawnchorus.eluhu.xyz",
+    baseUrl: "el-uhu.github.io/dawnchorus",
     ignorePatterns: ["private", "templates", ".obsidian", "meta"],
     defaultDateType: "created",
     theme: {
